@@ -8,14 +8,14 @@ Provides convenience <i>CIColor</i> method for setting color from HEX string in 
 
 # Installation
 
-<b>Manual:</b>
-<pre>
-Copy CIColorRGBA.swift to your project.
-</pre>
-
 <b>CocoaPods:</b>
 <pre>
 pod 'CIColorRGBA'
+</pre>
+
+<b>Manual:</b>
+<pre>
+Copy CIColorRGBA.swift to your project.
 </pre>
 
 # How to use
