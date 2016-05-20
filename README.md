@@ -15,7 +15,7 @@ pod 'CIColorRGBA'
 
 <b>Manual:</b>
 <pre>
-Copy CIColorRGBA.swift to your project.
+Copy <i>CIColorRGBA.swift</i> to your project.
 </pre>
 
 # How to use
