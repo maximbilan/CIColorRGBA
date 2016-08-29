@@ -18,7 +18,7 @@ pod 'CIColorRGBA'
 Copy <i>CIColorRGBA.swift</i> to your project.
 </pre>
 
-# How to use
+# Using
 
 <pre>
 let color = CIColor(rgba: '#134E5E')
