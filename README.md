@@ -10,7 +10,14 @@ Provides convenience <i>CIColor</i> method for setting color from HEX string in 
 
 <b>CocoaPods:</b>
 <pre>
-pod 'CIColorRGBA'
+Swift 2.2:
+pod 'CIColorRGBA', '~> 0.1'
+
+Swift 2.3:
+pod 'CIColorRGBA', '~> 2.3'
+
+Swift 3.0:
+pod 'CIColorRGBA', '~> 3.0'
 </pre>
 
 <b>Manual:</b>
