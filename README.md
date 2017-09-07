@@ -11,7 +11,7 @@ Provides convenience <i>CIColor</i> method for set up color from HEX string in <
 <b>CocoaPods:</b>
 <pre>
 <b>Swift 3.0</b>:
-pod 'CIColorRGBA', '~> 3.0'
+pod 'CIColorRGBA', '3.0'
 
 <b>Swift 4.0</b>:
 pod 'CIColorRGBA', '~> 4.0'
