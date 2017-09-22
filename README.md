@@ -3,8 +3,11 @@
 [![Version](https://img.shields.io/cocoapods/v/CIColorRGBA.svg?style=flat)](http://cocoadocs.org/docsets/CIColorRGBA)
 [![License](https://img.shields.io/cocoapods/l/CIColorRGBA.svg?style=flat)](http://cocoadocs.org/docsets/CIColorRGBA)
 [![Platform](https://img.shields.io/cocoapods/p/CIColorRGBA.svg?style=flat)](http://cocoadocs.org/docsets/CIColorRGBA)
+[![CocoaPods](https://img.shields.io/cocoapods/dt/CIColorRGBA.svg)](https://cocoapods.org/pods/CIColorRGBA)
+[![CocoaPods](https://img.shields.io/cocoapods/dm/CIColorRGBA.svg)](https://cocoapods.org/pods/CIColorRGBA)
 
-Provides convenience <i>CIColor</i> method for set up color from HEX string in <i>Swift</i>.
+
+Provides convenience <i>CIColor</i> method for setup color from HEX string in <i>Swift</i>.
 
 # Installation
 
