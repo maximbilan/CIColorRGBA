@@ -7,17 +7,13 @@
 [![CocoaPods](https://img.shields.io/cocoapods/dm/CIColorRGBA.svg)](https://cocoapods.org/pods/CIColorRGBA)
 
 
-Provides convenience <i>CIColor</i> method for setup color from HEX string in <i>Swift</i>.
+Provides a convenience <i>CIColor</i> method for set up a color from a HEX string in <i>Swift</i>.
 
 # Installation
 
 <b>CocoaPods:</b>
 <pre>
-<b>Swift 3.0</b>:
-pod 'CIColorRGBA', '3.0'
-
-<b>Swift 4.0</b>:
-pod 'CIColorRGBA', '~> 4.0'
+pod 'CIColorRGBA'
 </pre>
 
 <b>Manual:</b>
