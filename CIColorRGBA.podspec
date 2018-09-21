@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
 s.name         = "CIColorRGBA"
-s.version      = "4.0"
+s.version      = "4.0.1"
 s.summary      = "CIColor extension"
-s.description  = "Provides convenience CIColor method for setting color from HEX string in Swift"
+s.description  = "Provides a convenience CIColor method for the setting color from a HEX string in Swift"
 s.homepage     = "https://github.com/maximbilan/CIColorRGBA"
 s.license      = { :type => "MIT" }
 s.author       = { "Maxim Bilan" => "maximb.mail@gmail.com" }
